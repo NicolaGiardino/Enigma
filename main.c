@@ -1,7 +1,7 @@
 //
 //  Enigma Cypher Machine
 //
-//  Created by Nicola di Gruttola Giardino on 18/08/16.
+//  Created by Nicola di Gruttola Giardino.
 //
 #include <stdio.h>
 #include <stdlib.h>
